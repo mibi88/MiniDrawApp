@@ -1,2 +1,2 @@
 # MiniDrawApp
-A small drawing app usin Python 3 and Tkinter.
+A small drawing app using Python 3 and Tkinter.
